@@ -38,7 +38,7 @@ GPA: 3.76 / 4.0 <br>
 **Operations Research:** linear/nonlinear optimization, simulations <br>
 
 # Professional Projects
-### Deep Learning
+### (I) Deep Learning
 Machine Vision
 • Object Detection for 64 Categories of Food Using YOLOv3, 2019 <br>
 (15K training images, 45K training bounded boxes, mAP: 0.42)
@@ -50,7 +50,7 @@ NLP
 • [Sentiment Analysis in IMDB - with Word Embedding Visaulization on TensorFlow Embedding Projector, 2019](https://github.com/ycc3041/Deep-Learning-Applications-with-TensorFlow/blob/master/NLP/Sentiment%20Analysis%20in%20IMDB%20.ipynb) <br>
 (50K training data, acc: 80.7%)
 
-### Machine Learning
+### (II) Machine Learning
 Predictive modeling projects involving EDA, feature engineering, machine learning algorithms (regression, stepwise regression, random forest, gradient boosting, generalized additive models, multivariate adaptive regression splines, bayesian additive regression trees, support vector machine), model selection and model inference. <br>
 
 • [Prediction of Dengue Fever Cases, 2019](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Project%20Documents/Prediction%20of%20Dengue%20Fever%20Cases.pdf) <br>
@@ -79,7 +79,7 @@ Loss functions, bias-variance tradeoff, cross-validation, model selection, featu
 • [Analyzing Sentiment of Amazon Product Reviews, 2018](https://github.com/ycc3041/Machine-Learning/tree/master/Classification) <br>
 • [Finding Similar Wiki Documents, 2018](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering)  <br>
 
-### Data Visualization
+### (III) Data Visualization
 • [Pokemon Data Visualization in Tableau, 2018](https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1) <br>
 
 • [Basic Data Visualization in Python, 2018](https://github.com/ycc3041/Data-Visualization) <br>
@@ -89,7 +89,7 @@ Loss functions, bias-variance tradeoff, cross-validation, model selection, featu
 
 • [Development of Logistics Data Visualization System @Yahoo, 2017](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf)  <br>
 
-### Optimization
+### (IV) Optimization
 • [Quadratic Programming: Active Set Method, 2019](https://github.com/ycc3041/Optimization/blob/master/II.%20Active%20Set%20Method.py) <br>
 • [Linear Programming: Simplex Method, 2018](https://github.com/ycc3041/Optimization/blob/master/I.%20Simplex%20Method.py) <br>
 
