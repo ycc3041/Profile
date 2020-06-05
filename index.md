@@ -1,4 +1,4 @@
-## Yung Ching Chen's Portfolio
+## About Yung Ching Chen 
 
 Yung Ching Chen is passionate about applying data-driven methods......
 
@@ -6,22 +6,24 @@ You can use the [editor on GitHub](https://github.com/ycc3041/test/edit/master/i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Education
-**Purdue University | MS Industrial Engineering (Operations Research & Data Science)** | GPA: 3.73 / 4.0
-_West Lafayette, IN / 2018 – 2020_
+## Education
+**MS Industrial Engineering (Operations Research & Data Science), Purdue University** <br>
+_West Lafayette, IN / 2018 – 2020_ <br>
+• GPA: 3.73 / 4.0 <br>
 • Courses: regression analysis, predictive modeling, deep learning, optimization, data visualization 
 
-**National Cheng Kung University | BS Industrial and Information Management** | GPA: 3.76 / 4.0
-_Tainan, Taiwan / 2013 – 2017_
+**BS Industrial and Information Management, National Cheng Kung University**
+_Tainan, Taiwan / 2013 – 2017_ <br>
+• GPA: 3.76 / 4.0 <br>
 
-### Technical Skills
+## Technical Skills
 **Programming:** Python, R, SAS, Java, SQL, MATLAB, VBA, Linux scripting
 **Data Science:** statistics, machine learning (numpy, scipy, pandas, sklearn), data visualization (Tableau; matplotlib, seaborn) 
 **Data Management:** Oracle, MySQL, PostgreSQL, Access
 **Deep Leaning:** TensorFlow, Keras, Google Cloud Platform
 **Operations Research:** linear/nonlinear optimization, simulations
 
-### Working Experience
+## Working Experience
 **The Walt Disney Company | Analytics Intern**
 _Orlando, FL / Jun 2019 – Aug 2019_
 • Analyzed import and product data and trained LightGBM to predict duty class of imported goods with 96.7% of accuracy
@@ -40,7 +42,7 @@ _Taipei, Taiwan / Jul 2017 – Aug 2017_
 • Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure
 • Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
 
-### Professional Projects
+## Professional Projects
 text
 
 
