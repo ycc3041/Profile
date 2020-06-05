@@ -59,7 +59,7 @@ Predictive modeling projects involving EDA, feature engineering, machine learnin
 (BART model provides 80.9% improvement over RMSE of the null model) <br>
 • [Regression Analysis of Health Insurance Charges, 2018](https://github.com/ycc3041/Predictive-Modeling-in-R/blob/master/Project%20Documents/Regression%20Analysis%20of%20Health%20Insurance%20Charges.pdf) <br>
 
-### (IV) Machine Learning in Python
+Machine Learning in Python
 Implementation of machine learning algorithms including [regression](https://github.com/ycc3041/Machine-Learning/tree/master/Regression), [classification](https://github.com/ycc3041/Machine-Learning/tree/master/Classification) and [clustering](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering), 2018 <br>
 
 || Models <br>
