@@ -22,14 +22,12 @@ _Taipei, Taiwan / Jul 2017 – Aug 2017_ <br>
 * Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
 
 # Education
-**MS Industrial Engineering (Operations Research & Data Science) <br>
-Purdue University** <br>
+**Purdue University | MS Industrial Engineering (Operations Research & Data Science)** <br>
 _West Lafayette, IN / 2018 – 2020_ <br>
 GPA: 3.73 / 4.0 <br>
 Courses: regression analysis, predictive modeling, deep learning, optimization, data visualization 
 
-**BS Industrial and Information Management <br>
-National Cheng Kung University** <br>
+**National Cheng Kung University | BS Industrial and Information Management** <br>
 _Tainan, Taiwan / 2013 – 2017_ <br>
 GPA: 3.76 / 4.0 <br>
 
