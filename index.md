@@ -1,4 +1,4 @@
-## About 
+# About 
 
 Yung Ching Chen is passionate about applying data-driven methods......
 
@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/ycc3041/test/edit/master/i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Working Experience
+# Working Experience
 **The Walt Disney Company | Analytics Intern** <br>
 _Orlando, FL / Jun 2019 – Aug 2019_ <br>
 * Analyzed import and product data and trained LightGBM to predict duty class of imported goods with 96.7% of accuracy <br>
@@ -25,7 +25,7 @@ _Taipei, Taiwan / Jul 2017 – Aug 2017_ <br>
 * Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure <br>
 * Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
 
-## Education
+# Education
 **MS Industrial Engineering (Operations Research & Data Science), Purdue University** <br>
 _West Lafayette, IN / 2018 – 2020_ <br>
 * GPA: 3.73 / 4.0 <br>
@@ -35,14 +35,14 @@ _West Lafayette, IN / 2018 – 2020_ <br>
 _Tainan, Taiwan / 2013 – 2017_ <br>
 * GPA: 3.76 / 4.0 <br>
 
-## Technical Skills
+# Technical Skills
 **Programming:** Python, R, SAS, Java, SQL, MATLAB, VBA, Linux scripting <br>
 **Data Science:** statistics, machine learning (numpy, scipy, pandas, sklearn), data visualization (Tableau; matplotlib, seaborn) <br>
 **Data Management:** Oracle, MySQL, PostgreSQL, Access <br>
 **Deep Leaning:** TensorFlow, Keras, Google Cloud Platform <br>
 **Operations Research:** linear/nonlinear optimization, simulations <br>
 
-## Professional Projects
+# Professional Projects
 **(I) Machine Vision**
 * Object Detection for 64 Categories of Food Using YOLOv3, 2019 <br>
 (15K training images, 45K training bounded boxes, mAP: 0.42)
@@ -90,6 +90,6 @@ Loss functions, bias-variance tradeoff, cross-validation, model selection, featu
 **(VII) Manufacturing and Production Systems**
 * [Production & Operations Improvements @Aeon Motor Industry, 2016](https://github.com/ycc3041/All-Projects-List/blob/master/Production%20%26%20Operations%20Improvements.pdf) 
 
-## Contact
+# Contact
 Email: ycc3041@gmail.com <br>
 [LinkedIn](https://www.linkedin.com/in/yung-ching-c/)
