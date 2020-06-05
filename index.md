@@ -39,7 +39,7 @@ GPA: 3.76 / 4.0 <br>
 **Operations Research:** linear/nonlinear optimization, simulations <br>
 
 # Professional Projects
-**(I) Machine Vision** <br>
+### (I) Machine Vision <br>
 • Object Detection for 64 Categories of Food Using YOLOv3, 2019 <br>
 (15K training images, 45K training bounded boxes, mAP: 0.42)
 
