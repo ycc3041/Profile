@@ -2,10 +2,6 @@
 
 Yung Ching Chen is passionate about applying data-driven methods......
 
-You can use the [editor on GitHub](https://github.com/ycc3041/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Working Experience
 **The Walt Disney Company | Analytics Intern** <br>
 _Orlando, FL / Jun 2019 – Aug 2019_ <br>
@@ -26,14 +22,16 @@ _Taipei, Taiwan / Jul 2017 – Aug 2017_ <br>
 * Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
 
 # Education
-**MS Industrial Engineering (Operations Research & Data Science), Purdue University** <br>
+**MS Industrial Engineering (Operations Research & Data Science) <br>
+Purdue University** <br>
 _West Lafayette, IN / 2018 – 2020_ <br>
-* GPA: 3.73 / 4.0 <br>
-* Courses: regression analysis, predictive modeling, deep learning, optimization, data visualization 
+GPA: 3.73 / 4.0 <br>
+Courses: regression analysis, predictive modeling, deep learning, optimization, data visualization 
 
-**BS Industrial and Information Management, National Cheng Kung University** <br>
+**BS Industrial and Information Management <br>
+National Cheng Kung University** <br>
 _Tainan, Taiwan / 2013 – 2017_ <br>
-* GPA: 3.76 / 4.0 <br>
+GPA: 3.76 / 4.0 <br>
 
 # Technical Skills
 **Programming:** Python, R, SAS, Java, SQL, MATLAB, VBA, Linux scripting <br>
