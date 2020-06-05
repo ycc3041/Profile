@@ -43,15 +43,22 @@ _Tainan, Taiwan / 2013 – 2017_ <br>
 **Operations Research:** linear/nonlinear optimization, simulations <br>
 
 ## Professional Projects
-### Machine Vision
+**Machine Vision**
 • Object Detection for 64 Categories of Food Using YOLOv3, 2019 <br>
-(15K training images, 45K training bounded boxes, mAP: 0.42)
-### Natural Language Processing
-### Predictive Modeling (R)
-### Machine Learning (Python)
-### Data Visualization
-### Optimization
-### Manufacturing and Production Systems
+(15K training images, 45K training bounded boxes, mAP: 0.42) <br>
+
+**Natural Language Processing**
+• Text Classification for BBC News, 2019 <br>
+(2K training data, acc: 96.9%) <br> 
+• Sentiment Analysis in IMDB - with Word Embedding Visaulization on TensorFlow Embedding Projector, 2019 <br>
+(50K training data, acc: 80.7%) <br>
+
+**Predictive Modeling (R)**
+
+**Machine Learning (Python)**
+**Data Visualization**
+**Optimization**
+**Manufacturing and Production Systems**
 
 ## Contact
 Email: ycc3041@gmail.com
