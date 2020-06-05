@@ -12,34 +12,34 @@ _West Lafayette, IN / 2018 – 2020_ <br>
 • GPA: 3.73 / 4.0 <br>
 • Courses: regression analysis, predictive modeling, deep learning, optimization, data visualization 
 
-**BS Industrial and Information Management, National Cheng Kung University**
+**BS Industrial and Information Management, National Cheng Kung University** <br>
 _Tainan, Taiwan / 2013 – 2017_ <br>
 • GPA: 3.76 / 4.0 <br>
 
 ## Technical Skills
-**Programming:** Python, R, SAS, Java, SQL, MATLAB, VBA, Linux scripting
-**Data Science:** statistics, machine learning (numpy, scipy, pandas, sklearn), data visualization (Tableau; matplotlib, seaborn) 
-**Data Management:** Oracle, MySQL, PostgreSQL, Access
-**Deep Leaning:** TensorFlow, Keras, Google Cloud Platform
-**Operations Research:** linear/nonlinear optimization, simulations
+**Programming:** Python, R, SAS, Java, SQL, MATLAB, VBA, Linux scripting <br>
+**Data Science:** statistics, machine learning (numpy, scipy, pandas, sklearn), data visualization (Tableau; matplotlib, seaborn) <br>
+**Data Management:** Oracle, MySQL, PostgreSQL, Access <br>
+**Deep Leaning:** TensorFlow, Keras, Google Cloud Platform <br>
+**Operations Research:** linear/nonlinear optimization, simulations <br>
 
 ## Working Experience
-**The Walt Disney Company | Analytics Intern**
-_Orlando, FL / Jun 2019 – Aug 2019_
-• Analyzed import and product data and trained LightGBM to predict duty class of imported goods with 96.7% of accuracy
-• Built Python program to fully automate manual duty drawback calculation processes to reduce operation time significantly
+**The Walt Disney Company | Analytics Intern** <br>
+_Orlando, FL / Jun 2019 – Aug 2019_ <br>
+• Analyzed import and product data and trained LightGBM to predict duty class of imported goods with 96.7% of accuracy <br>
+• Built Python program to fully automate manual duty drawback calculation processes to reduce operation time significantly <br>
 • Developed new database scheme to capture complete China Section 301 tariffs to increase drawback amount by 24.5%
 
-**SkyREC | Machine Learning Intern**
-_Taipei, Taiwan / Jan 2018 – Mar 2018_
-• Generated model test reports and fine-tuned deep learning models to improve human detection performance by 1.8% mAP
-• Programmed Python scripts to save image collection and preprocessing time by 15.6%
-• Created 3 technical documentations to allow 8+ team members to effectively learn machine vision software
+**SkyREC | Machine Learning Intern** <br>
+_Taipei, Taiwan / Jan 2018 – Mar 2018_ <br>
+• Generated model test reports and fine-tuned deep learning models to improve human detection performance by 1.8% mAP <br>
+• Programmed Python scripts to save image collection and preprocessing time by 15.6% <br>
+• Created 3 technical documentations to allow 8+ team members to effectively learn machine vision software 
 
 **Yahoo | Data Visualization Intern**
 _Taipei, Taiwan / Jul 2017 – Aug 2017_
-• Conducted user needs assessment and investigated at distribution center to produce 19 logistics reports and 36 KPIs
-• Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure
+• Conducted user needs assessment and investigated at distribution center to produce 19 logistics reports and 36 KPIs <br>
+• Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure <br>
 • Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
 
 ## Professional Projects
