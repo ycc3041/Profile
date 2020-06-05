@@ -44,6 +44,8 @@ _Tainan, Taiwan / 2013 – 2017_ <br>
 
 ## Professional Projects
 ### Machine Vision
+• Object Detection for 64 Categories of Food Using YOLOv3, 2019 <br>
+(15K training images, 45K training bounded boxes, mAP: 0.42)
 ### Natural Language Processing
 ### Predictive Modeling (R)
 ### Machine Learning (Python)
@@ -52,8 +54,9 @@ _Tainan, Taiwan / 2013 – 2017_ <br>
 ### Manufacturing and Production Systems
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/yung-ching-c/)
 Email: ycc3041@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yung-ching-c/)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
