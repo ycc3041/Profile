@@ -23,8 +23,8 @@ _Taipei, Taiwan / Jul 2017 – Aug 2017_ <br>
 # Education
 **Purdue University | MS Industrial Engineering (Operations Research & Data Science)** <br>
 _West Lafayette, IN / 2018 – 2020_ <br>
-GPA: 3.73 / 4.0 <br>
-Courses: regression analysis, predictive modeling, deep learning, optimization, data visualization 
+Courses: regression analysis, predictive modeling, deep learning, optimization, data visualization <br>
+GPA: 3.73 / 4.0
 
 **National Cheng Kung University | BS Industrial and Information Management** <br>
 _Tainan, Taiwan / 2013 – 2017_ <br>
@@ -39,16 +39,15 @@ GPA: 3.76 / 4.0 <br>
 
 # Professional Projects
 ### (I) Deep Learning
-Machine Vision
-• Object Detection for 64 Categories of Food Using YOLOv3, 2019 <br>
-(15K training images, 45K training bounded boxes, mAP: 0.42)
+Machine Vision <br>
+• [Object Detection in Complex Food Images Using YOLOv3, 2019](https://github.com/ycc3041/All-Projects-List/blob/master/Object%20Detection%20in%20Complex%20Food%20Images.pdf) <br>
+mAP: 0.42
 
-NLP
+NLP <br>
 • [Text Classification for BBC News, 2019](https://github.com/ycc3041/Deep-Learning-Applications-with-TensorFlow/blob/master/NLP/Text%20Classification%20for%20BBC%20News.ipynb) <br>
-(2K training data, acc: 96.9%)
-
+2K training data, acc: 96.9%
 • [Sentiment Analysis in IMDB - with Word Embedding Visaulization on TensorFlow Embedding Projector, 2019](https://github.com/ycc3041/Deep-Learning-Applications-with-TensorFlow/blob/master/NLP/Sentiment%20Analysis%20in%20IMDB%20.ipynb) <br>
-(50K training data, acc: 80.7%)
+50K training data, acc: 80.7%
 
 ### (II) Machine Learning
 Predictive modeling projects involving EDA, feature engineering, machine learning algorithms (regression, stepwise regression, random forest, gradient boosting, generalized additive models, multivariate adaptive regression splines, bayesian additive regression trees, support vector machine), model selection and model inference. <br>
@@ -80,14 +79,12 @@ Loss functions, bias-variance tradeoff, cross-validation, model selection, featu
 • [Finding Similar Wiki Documents, 2018](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering)  <br>
 
 ### (III) Data Visualization
-• [Pokemon Data Visualization in Tableau, 2018](https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1) <br>
-
-• [Basic Data Visualization in Python, 2018](https://github.com/ycc3041/Data-Visualization) <br>
+• [Pokemon Data Visualization in Tableau, 2018](https://public.tableau.com/profile/yung.ching.chen#!/vizhome/PokemonDataVisualization/Story1) 
+• [Basic Data Visualization in Python, 2018](https://github.com/ycc3041/Data-Visualization)
 1. Basic Visualization Techniques with Car Dataset <br>
 2. Visualization with Interaction with Countries Dataset <br>
 3. Networks Visualization with 1997 US Airlines Dataset <br>
-
-• [Development of Logistics Data Visualization System @Yahoo, 2017](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf)  <br>
+• [Development of Logistics Data Visualization System @Yahoo, 2017](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf)
 
 ### (IV) Optimization
 • [Quadratic Programming: Active Set Method, 2019](https://github.com/ycc3041/Optimization/blob/master/II.%20Active%20Set%20Method.py) <br>
