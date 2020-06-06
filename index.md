@@ -1,7 +1,7 @@
 ## About 
 text...
 
-# Working Experience
+## Working Experience
 **The Walt Disney Company | Analytics Intern** <br>
 _Orlando, FL / Jun 2019 – Aug 2019_ <br>
 * Analyzed import and product data and trained LightGBM to predict duty class of imported goods with 96.7% of accuracy <br>
