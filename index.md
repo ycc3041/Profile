@@ -1,7 +1,7 @@
-# About 
+## About 
 text...
 
-# Working Experience
+## Working Experience
 **The Walt Disney Company | Analytics Intern** <br>
 _Orlando, FL / Jun 2019 – Aug 2019_ <br>
 * Analyzed import and product data and trained LightGBM to predict duty class of imported goods with 96.7% of accuracy <br>
@@ -20,7 +20,7 @@ _Taipei, Taiwan / Jul 2017 – Aug 2017_ <br>
 * Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure <br>
 * Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
 
-# Education
+## Education
 **Purdue University | MS Industrial Engineering (Operations Research & Data Science)** <br>
 _West Lafayette, IN / 2018 – 2020_ <br>
 Courses: regression analysis, predictive modeling, deep learning, optimization, data visualization <br>
@@ -30,17 +30,17 @@ GPA: 3.73 / 4.0
 _Tainan, Taiwan / 2013 – 2017_ <br>
 GPA: 3.76 / 4.0 <br>
 
-# Technical Skills
+## Technical Skills
 **Programming:** Python, R, SAS, Java, SQL, MATLAB, VBA, Linux scripting <br>
 **Data Science:** statistics, machine learning (numpy, scipy, pandas, sklearn), data visualization (Tableau; matplotlib, seaborn) <br>
 **Data Management:** Oracle, MySQL, PostgreSQL, Access <br>
 **Deep Leaning:** TensorFlow, Keras, Google Cloud Platform <br>
 **Operations Research:** linear/nonlinear optimization, simulations <br>
 
-# Professional Projects
+## Professional Projects
 ### (I) Deep Learning
 Machine Vision <br>
-• [Object Detection in Complex Food Images Using YOLOv3, 2019](https://github.com/ycc3041/All-Projects-List/blob/master/Object%20Detection%20in%20Complex%20Food%20Images.pdf) <br>
+* [Object Detection in Complex Food Images Using YOLOv3, 2019](https://github.com/ycc3041/All-Projects-List/blob/master/Object%20Detection%20in%20Complex%20Food%20Images.pdf) <br>
 mAP: 0.42
 
 NLP <br>
