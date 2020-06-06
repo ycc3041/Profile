@@ -48,13 +48,13 @@ GPA: 3.76 / 4.0 <br>
 
 ### (II) Machine Learning
 
-**Programming Languages**
+**Programming Languages** <br>
 Python, R
 
-**Models**
+**Models** <br>
 Linear regression, lasso/ridge regression, stepwise regression, kernel regression, logistic regression, nearest neighbors, decision trees, random forests, gradient boosting trees, SVM, clustering, mixtures of Gaussians, latent dirchlet allocation
 
-**Concepts**
+**Concepts** <br>
 Loss functions, bias-variance tradeoff, cross-validation, model selection, feature selection, sparsity, alleviating overfitting, precision-recall, distance metrics, approximation algorithms, probabilistic modeling 
 
 **Implementation of ML Algorithms**
