@@ -57,8 +57,7 @@ Linear regression, lasso/ridge regression, stepwise regression, kernel regressio
 **Concepts** <br>
 Loss functions, bias-variance tradeoff, cross-validation, model selection, feature selection, sparsity, alleviating overfitting, precision-recall, distance metrics, approximation algorithms, probabilistic modeling 
 
-**Implementation of ML Algorithms**
-* [Regression](https://github.com/ycc3041/Machine-Learning/tree/master/Regression)
+**Implementation of ML Algorithms** * [Regression](https://github.com/ycc3041/Machine-Learning/tree/master/Regression)
 * [Classification](https://github.com/ycc3041/Machine-Learning/tree/master/Classification)
 * [Clustering](https://github.com/ycc3041/Machine-Learning/tree/master/Clustering)
 
