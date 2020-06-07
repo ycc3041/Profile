@@ -1,28 +1,28 @@
 # About 
 Hi I am Yung Ching Chen. You can also call me Zoe. I graduated from Purdue University in 2020 with an MS degree in industrial engineering. My specializations are operations research and data science. I also have worked  in both startups and big corporations including Yahoo and Disney. I am very passionate about applying scientific and analytical methods to get insights from data and utilizing the results to do better decision making. I enjoy learning new knowledge as well as solving challenging data problems.
 
-<br>
+
 
 # Working Experience
 **The Walt Disney Company | Analytics Intern** <br>
 _Orlando, FL / Jun 2019 – Aug 2019_ <br>
-* Analyzed import and product data and trained LightGBM to predict duty class of imported goods with 96.7% of accuracy <br>
-* Built Python program to fully automate manual duty drawback calculation processes to reduce operation time significantly <br>
+* Analyzed import and product data and trained LightGBM to predict duty class of imported goods with 96.7% of accuracy 
+* Built Python program to fully automate manual duty drawback calculation processes to reduce operation time significantly
 * Developed new database scheme to capture complete China Section 301 tariffs to increase drawback amount by 24.5%
 
 **SkyREC | Machine Learning Intern** <br>
 _Taipei, Taiwan / Jan 2018 – Mar 2018_ <br>
-* Generated model test reports and fine-tuned deep learning models to improve human detection performance by 1.8% mAP <br>
-* Programmed Python scripts to save image collection and preprocessing time by 15.6% <br>
+* Generated model test reports and fine-tuned deep learning models to improve human detection performance by 1.8% mAP
+* Programmed Python scripts to save image collection and preprocessing time by 15.6%
 * Created 3 technical documentations to allow 8+ team members to effectively learn machine vision software 
 
 **Yahoo | Data Visualization Intern** <br>
 _Taipei, Taiwan / Jul 2017 – Aug 2017_ <br>
-* Conducted user needs assessment and investigated at distribution center to produce 19 logistics reports and 36 KPIs <br>
-* Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure <br>
+* Conducted user needs assessment and investigated at distribution center to produce 19 logistics reports and 36 KPIs
+* Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure
 * Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
-<br>
-<br>
+
+
 
 # Education
 **Purdue University | MS Industrial Engineering (Operations Research & Data Science)** <br>
@@ -33,7 +33,8 @@ GPA: 3.73 / 4.0
 **National Cheng Kung University | BS Industrial and Information Management** <br>
 _Tainan, Taiwan / 2013 – 2017_ <br>
 GPA: 3.76 / 4.0 <br>
-<br>
+
+
 
 # Technical Skills
 **Programming:** Python, R, SAS, Java, SQL, MATLAB, VBA, Linux scripting <br>
@@ -41,7 +42,8 @@ GPA: 3.76 / 4.0 <br>
 **Data Management:** Oracle, MySQL, PostgreSQL, Access <br>
 **Deep Leaning:** TensorFlow, Keras, Google Cloud Platform <br>
 **Operations Research:** linear/nonlinear optimization, simulations <br>
-<br>
+
+
 
 # Professional Projects
 ### (I) Deep Learning
@@ -74,10 +76,12 @@ The main programming languages used for machine learning projects are Python and
 * [Development of Logistics Data Visualization System @Yahoo, 2017](https://github.com/ycc3041/All-Projects-List/blob/master/Development%20of%20Logistics%20Data%20Visualization%20System.pdf)
 
 ### (IV) Optimization
-* [Quadratic Programming: Active Set Method, 2019](https://github.com/ycc3041/Optimization/blob/master/II.%20Active%20Set%20Method.py) <br>
-* [Linear Programming: Simplex Method, 2018](https://github.com/ycc3041/Optimization/blob/master/I.%20Simplex%20Method.py) <br>
-<br>
+* [Quadratic Programming: Active Set Method, 2019](https://github.com/ycc3041/Optimization/blob/master/II.%20Active%20Set%20Method.py) 
+* [Linear Programming: Simplex Method, 2018](https://github.com/ycc3041/Optimization/blob/master/I.%20Simplex%20Method.py) 
+
+
 
 # Contact
 Email: ycc3041@gmail.com <br>
-[LinkedIn](https://www.linkedin.com/in/yung-ching-c/)
+[My LinkedIn](https://www.linkedin.com/in/yung-ching-c/)
+[My GitHub](https://github.com/ycc3041/All-Projects-List)
