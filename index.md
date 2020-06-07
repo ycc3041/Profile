@@ -1,5 +1,6 @@
 # About 
-text...
+Hi I am Yung Ching Chen. You can also call me Zoe. I graduated from Purdue University in 2020 with an MS degree in industrial engineering. My specializations are operations research and data science. I also have worked  in both startups and big corporations including Yahoo and Disney. I am very passionate about applying scientific and analytical methods to get insights from data and utilizing the results to do better decision making. I enjoy learning new knowledge as well as solving challenging data problems.
+
 <br>
 
 # Working Experience
@@ -20,6 +21,7 @@ _Taipei, Taiwan / Jul 2017 – Aug 2017_ <br>
 * Conducted user needs assessment and investigated at distribution center to produce 19 logistics reports and 36 KPIs <br>
 * Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure <br>
 * Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
+<br>
 <br>
 
 # Education
@@ -51,7 +53,7 @@ GPA: 3.76 / 4.0 <br>
 * [Sentiment Analysis in IMDB - with Word Embedding Visaulization on TensorFlow Embedding Projector, 2019](https://github.com/ycc3041/Deep-Learning-Applications-with-TensorFlow/blob/master/NLP/Sentiment%20Analysis%20in%20IMDB%20.ipynb) <br>
 
 ### (II) Machine Learning
-The main programming languages used for machine learning projects are Python and R. The models include linear regression, lasso/ridge regression, stepwise regression, kernel regression, logistic regression, nearest neighbors, decision trees, random forests, gradient boosting trees, SVM, clustering, mixtures of Gaussians, latent dirchlet allocation
+The main programming languages used for machine learning projects are Python and R. The models include linear regression, lasso/ridge regression, stepwise regression, kernel regression, logistic regression, nearest neighbors, decision trees, random forests, gradient boosting trees, SVM, clustering, mixtures of Gaussians, latent dirchlet allocation.
 
 **Implementation of ML Algorithms** 
 * [Regression](https://github.com/ycc3041/Machine-Learning/tree/master/Regression)
