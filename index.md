@@ -1,7 +1,7 @@
 # About 
 Hi I am Yung Ching Chen. You can also call me Zoe. I graduated from Purdue University in 2020 with an MS degree in industrial engineering. My specializations are operations research and data science. I also have worked  in both startups and big corporations including Yahoo and Disney. I am very passionate about applying scientific and analytical methods to get insights from data and utilizing the results to do better decision making. I enjoy learning new knowledge as well as solving challenging data problems.
 
-<br>
+
 
 # Working Experience
 **The Walt Disney Company | Analytics Intern** <br>
@@ -22,7 +22,7 @@ _Taipei, Taiwan / Jul 2017 – Aug 2017_ <br>
 * Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure
 * Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
 
-<br>
+
 
 # Education
 **Purdue University | MS Industrial Engineering (Operations Research & Data Science)** <br>
@@ -34,7 +34,7 @@ GPA: 3.73 / 4.0
 _Tainan, Taiwan / 2013 – 2017_ <br>
 GPA: 3.76 / 4.0 <br>
 
-<br>
+
 
 # Technical Skills
 **Programming:** Python, R, SAS, Java, SQL, MATLAB, VBA, Linux scripting <br>
@@ -43,7 +43,7 @@ GPA: 3.76 / 4.0 <br>
 **Deep Leaning:** TensorFlow, Keras, Google Cloud Platform <br>
 **Operations Research:** linear/nonlinear optimization, simulations <br>
 
-<br>
+
 
 # Professional Projects
 ### (I) Deep Learning
@@ -79,7 +79,7 @@ The main programming languages used for machine learning projects are Python and
 * [Quadratic Programming: Active Set Method, 2019](https://github.com/ycc3041/Optimization/blob/master/II.%20Active%20Set%20Method.py) 
 * [Linear Programming: Simplex Method, 2018](https://github.com/ycc3041/Optimization/blob/master/I.%20Simplex%20Method.py) 
 
-<br>
+
 
 # Contact
 Email: ycc3041@gmail.com <br>
