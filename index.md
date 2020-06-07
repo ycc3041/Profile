@@ -1,6 +1,5 @@
 # About 
 text...
-
 <br>
 
 # Working Experience
@@ -21,7 +20,6 @@ _Taipei, Taiwan / Jul 2017 – Aug 2017_ <br>
 * Conducted user needs assessment and investigated at distribution center to produce 19 logistics reports and 36 KPIs <br>
 * Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure <br>
 * Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
-
 <br>
 
 # Education
@@ -33,7 +31,6 @@ GPA: 3.73 / 4.0
 **National Cheng Kung University | BS Industrial and Information Management** <br>
 _Tainan, Taiwan / 2013 – 2017_ <br>
 GPA: 3.76 / 4.0 <br>
-
 <br>
 
 # Technical Skills
@@ -42,7 +39,6 @@ GPA: 3.76 / 4.0 <br>
 **Data Management:** Oracle, MySQL, PostgreSQL, Access <br>
 **Deep Leaning:** TensorFlow, Keras, Google Cloud Platform <br>
 **Operations Research:** linear/nonlinear optimization, simulations <br>
-
 <br>
 
 # Professional Projects
@@ -78,9 +74,8 @@ The main programming languages used for machine learning projects are Python and
 ### (IV) Optimization
 * [Quadratic Programming: Active Set Method, 2019](https://github.com/ycc3041/Optimization/blob/master/II.%20Active%20Set%20Method.py) <br>
 * [Linear Programming: Simplex Method, 2018](https://github.com/ycc3041/Optimization/blob/master/I.%20Simplex%20Method.py) <br>
-
 <br>
 
-## Contact
+# Contact
 Email: ycc3041@gmail.com <br>
 [LinkedIn](https://www.linkedin.com/in/yung-ching-c/)
