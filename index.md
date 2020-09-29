@@ -6,21 +6,21 @@ Hi I am Yung Ching Chen. You can also call me Zoe. I graduated from Purdue Unive
 # Working Experience
 **The Walt Disney Company | Analytics Intern** <br>
 _Orlando, FL / Jun 2019 – Aug 2019_ <br>
-* Analyzed import and product data and trained LightGBM to predict duty class of imported goods with 96.7% of accuracy 
-* Built Python program to fully automate manual duty drawback calculation processes to reduce operation time significantly
-* Developed new database scheme to capture complete China Section 301 tariffs to increase drawback amount by 24.5%
+* Analyzed 1M+ of trade data and developed LightGBM models to predict duty rate classes with 96.7% of accuracy
+* Built Python program to fully automate manual duty drawback calculation processes and reduced operation time significantly
+* Modified database scheme to capture complete China Section 301 tariffs and increased duty drawback amount by 24.5%
 
 **SkyREC | Machine Learning Intern** <br>
 _Taipei, Taiwan / Jan 2018 – Mar 2018_ <br>
 * Generated model test reports and fine-tuned deep learning models to improve human detection performance by 1.8% mAP
-* Programmed Python scripts to save image collection and preprocessing time by 15.6%
-* Created 3 technical documentations to allow 8+ team members to effectively learn machine vision software 
+* Programmed Python scripts to reduce data collection and image preprocessing time by 15.6%
+* Created 3 technical tutorials for development and QA teams to effectively learn machine vision software and tools
 
 **Yahoo | Data Visualization Intern** <br>
 _Taipei, Taiwan / Jul 2017 – Aug 2017_ <br>
-* Conducted user needs assessment and investigated at distribution center to produce 19 logistics reports and 36 KPIs
-* Identified data source, graph types, data dimension, interactive functions to build complete data visualization structure
-* Established supply chain dashboards with Tableau to allow 30+ users to flexibly track and manage logistics system operations
+* Conducted user needs assessment and investigated at distribution center to determine 36 logistics KPI requirements
+* Identified data sources, graph types, data dimensions, interactive functions to build complete data visualization structure
+* Established internal supply chain dashboards with Tableau for 30+ users to flexibly track and manage logistics system operations
 
 
 
@@ -32,6 +32,7 @@ GPA: 3.73 / 4.0
 
 **National Cheng Kung University | BS Industrial and Information Management** <br>
 _Tainan, Taiwan / 2013 – 2017_ <br>
+Courses: statistics, simulation, computer programming and application, information mgmt., database mgmt., quality mgmt.
 GPA: 3.76 / 4.0 <br>
 
 
